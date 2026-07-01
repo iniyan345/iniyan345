@@ -149,10 +149,12 @@ Personal portfolio with modern UI, animations and responsive design.
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/iniyan345/iniyan345/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iniyan345/iniyan345/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iniyan345/iniyan345/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/iniyan345/iniyan345/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 </div>
-
-> To enable this, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates the snake SVG from your contribution graph.
 
 ---
 
