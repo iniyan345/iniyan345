@@ -1,313 +1,190 @@
-<!-- ========================= HERO BANNER ========================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:00E5FF,100:00C9A7&text=INIYAN%20C&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Machine%20Learning%20Engineer&descAlignY=58" />
-</p>
+<!-- Typing animation header -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=45&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&height=70&lines=Iniyan+C" alt="Iniyan C" />
 
-<h1 align="center">Hi 👋, I'm <span style="color:#00E5FF;">Iniyan C</span></h1>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=60&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=90&weight=800&lines=AI+ENGINEER" alt="AI Engineer" />
 
-<h3 align="center">
-AI & Data Science Engineer • Full Stack Developer • AWS Cloud Enthusiast
-</h3>
+**FULL STACK DEVELOPER | MACHINE LEARNING ENGINEER**
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00E5FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Engineer;Full+Stack+Developer;Machine+Learning+Engineer;AWS+Cloud+Learner;Building+Intelligent+Applications;Always+Learning+New+Technologies" />
-</p>
+![AI Enthusiast](https://img.shields.io/badge/🤖_AI_ENTHUSIAST-14171A?style=for-the-badge&color=ec4899)
+![Cloud Learner](https://img.shields.io/badge/☁️_CLOUD_LEARNER-14171A?style=for-the-badge&color=38bdf8)
+![Open Source](https://img.shields.io/badge/🌐_OPEN_SOURCE-14171A?style=for-the-badge&color=a855f7)
+![Problem Solver](https://img.shields.io/badge/🧩_PROBLEM_SOLVER-14171A?style=for-the-badge&color=22d3ee)
+
+</div>
 
 ---
 
-# 🚀 About Me
+## 👋 About Me
+
+I'm an **AI & Data Science Engineer** passionate about building intelligent systems and full stack applications that solve real-world problems.
+
+- 🔭 Currently exploring **Generative AI, LLMs, and Advanced ML**
+- ☁️ Learning **Cloud Architecture, DevOps & System Design**
+- 💡 I love turning ideas into impactful products
+- 🤝 Open to collaborate on innovative projects
+- 📫 Open to **Internships & Full-time Opportunities**
+
+---
+
+## ⚡ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iniyan345&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ec4899&icon_color=38bdf8&text_color=c9d1d9" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniyan345&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ec4899&text_color=c9d1d9" alt="Top Languages" width="35%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iniyan345&theme=radical&hide_border=true&background=0d1117&stroke=ec4899&ring=38bdf8&fire=ec4899&currStreakLabel=38bdf8" alt="Streak Stats" width="49%" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Tools**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🔨 Currently Working On
+
+| Project | Description | Progress |
+|---|---|---|
+| 🤖 **EduSense AI 2.0** | Upgrading AI lecture companion with advanced analytics and LLM integrations | ▓▓▓▓▓▓▓░░░ 75% |
+| ☁️ **AWS Cloud Projects** | Building scalable cloud solutions using AWS services and serverless architecture | ▓▓▓▓▓▓░░░░ 60% |
+| 🧠 **ML Model Research** | Experimenting with deep learning models and optimizing performance | ▓▓▓▓▓░░░░░ 45% |
+| 🌐 **Portfolio V2** | Redesigning portfolio with cyberpunk theme and smooth animations | ▓▓▓▓▓▓▓▓▓░ 90% |
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%">
 
-<td width="60%">
+### 📚 EduSense AI
+`AI` `Flask` `Python` `ML`
 
-### 👨‍💻 Who Am I?
+AI-powered lecture companion with transcription, summarization, MCQ generation & analytics.
 
-🎓 B.Tech Artificial Intelligence & Data Science
-
-💻 Passionate Full Stack Developer
-
-🤖 AI & Machine Learning Enthusiast
-
-☁️ AWS Cloud Learner
-
-📈 Interested in Data Analytics
-
-🌱 Currently learning
-
-- Advanced Machine Learning
-- Cloud Computing (AWS)
-- DevOps
-- System Design
-- Generative AI
-- Large Language Models (LLMs)
-
-🎯 Career Goal
-
-Become an AI Engineer building scalable AI products that solve real-world problems.
-
-💼 Open To
-
-- Full-Time Opportunities
-- AI/ML Roles
-- Software Development
-- Freelance Projects
+⭐ 85 &nbsp;&nbsp; 🍴 28 &nbsp;&nbsp; [View Repo →](#)
 
 </td>
+<td width="50%">
 
-<td>
+### 🎙️ AI Lecture Companion
+`AI` `NLP` `FastAPI` `Python`
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320">
+Real-time transcription, AI notes, summarization and smart classroom assistant.
+
+⭐ 72 &nbsp;&nbsp; 🍴 24 &nbsp;&nbsp; [View Repo →](#)
 
 </td>
+</tr>
+<tr>
+<td width="50%">
 
+### ☁️ AWS Cloud Projects
+`AWS` `DevOps` `Cloud` `Linux`
+
+Collection of AWS projects including EC2, S3, IAM, VPC, Load Balancer and more.
+
+⭐ 60 &nbsp;&nbsp; 🍴 18 &nbsp;&nbsp; [View Repo →](#)
+
+</td>
+<td width="50%">
+
+### 💼 Portfolio Website
+`React` `Tailwind` `JS` `Framer`
+
+Personal portfolio with modern UI, animations and responsive design.
+
+⭐ 95 &nbsp;&nbsp; 🍴 35 &nbsp;&nbsp; [View Repo →](#)
+
+</td>
 </tr>
 </table>
 
 ---
 
-# ⚡ Tech Stack
+## 🐍 Contribution Snake
 
-## 💻 Languages
+<div align="center">
+<img src="https://raw.githubusercontent.com/iniyan345/iniyan345/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+</div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
-</p>
-
----
-
-## 🎨 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
+> To enable this, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates the snake SVG from your contribution graph.
 
 ---
 
-## ⚙️ Backend
+## 🏆 Coding Profiles
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
-</p>
-
----
-
-## 🗄 Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+| Platform | Handle | Stats |
+|---|---|---|
+| ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) | iniyan_c | Rating 1624 |
+| ![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | iniyan_c | 5★ Problem Solver |
+| ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | iniyan_c | Max Rating 1200 |
+| ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) | iniyan345 | — |
 
 ---
 
-## ☁ Cloud & DevOps
+## 📫 Connect With Me
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
-## 🛠 Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,figma,photoshop,postman" />
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Dashboard
+<div align="center">
 
-<p align="center">
+**Thanks for visiting! ⭐ Star some repos if you like my work!**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iniyan345&show_icons=true&theme=tokyonight&hide_border=true"/>
+![Profile Views](https://komarev.com/ghpvc/?username=iniyan345&color=ec4899&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=iniyan345&theme=tokyonight&hide_border=true"/>
+Made with ❤️ by **Iniyan C**
 
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniyan345&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📉 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iniyan345&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iniyan345&theme=tokyonight&column=4&margin-w=20&margin-h=20"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🤖 EduSense AI
-
-AI-powered Intelligent Lecture Companion.
-
-### Features
-
-- Speech-to-Text
-- AI Notes
-- MCQ Generator
-- Lecture Analytics
-- Attendance
-- Student Dashboard
-
-**Tech**
-
-Python • Flask • AI • Whisper • HTML • CSS • JS
-
-🔗 Repository
-
-https://github.com/iniyan345
-
-</td>
-
-<td width="50%">
-
-## 🧠 AI Lecture Companion
-
-An AI assistant for classroom learning.
-
-### Features
-
-- Real-time transcription
-- Smart Notes
-- AI Summary
-- PDF Export
-
-**Tech**
-
-Python • FastAPI • NLP • ML
-
-🔗 Repository
-
-https://github.com/iniyan345
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## ☁ AWS Cloud Projects
-
-Collection of AWS Labs.
-
-- EC2
-- S3
-- IAM
-- VPC
-- Load Balancer
-- Route53
-
-Tech
-
-AWS CLI • Linux • Bash
-
-🔗 Repository
-
-https://github.com/iniyan345
-
-</td>
-
-<td>
-
-## 🌐 Portfolio Website
-
-Responsive personal portfolio.
-
-Features
-
-- Dark UI
-- Responsive
-- Animations
-- Contact Form
-
-Tech
-
-HTML
-
-CSS
-
-JavaScript
-
-React
-
-🔗 Repository
-
-https://github.com/iniyan345
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:iniyan345@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/iniyan345">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</p>
-
----
-
-# 📊 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=iniyan345&label=Profile%20Views&color=00E5FF&style=for-the-badge"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00E5FF&height=120&section=footer"/>
-
-</p>
+</div>
