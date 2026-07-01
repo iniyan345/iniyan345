@@ -34,9 +34,7 @@ I'm an **AI & Data Science Engineer** passionate about building intelligent syst
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=iniyan345&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ec4899&icon_color=38bdf8&text_color=c9d1d9&cache_seconds=86400" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniyan345&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ec4899&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages" width="35%" />
 
-<img src="https://streak-stats.demolab.com/?user=iniyan345&theme=radical&hide_border=true&background=0D1117&stroke=EC4899&ring=38BDF8&fire=EC4899&currStreakLabel=38BDF8&sideLabels=EC4899&sideNums=c9d1d9&dates=8b949e" alt="Streak Stats" width="49%" />
 
 </div>
 
