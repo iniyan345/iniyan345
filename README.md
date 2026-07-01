@@ -1,116 +1,100 @@
-<h1 align="center">Hi 👋, I'm Iniyan</h1>
+Create an ultra-modern GitHub Profile README for an AI & Full Stack Developer.
 
-<h3 align="center">
-AI & Data Science Engineer | Full Stack Developer | Machine Learning Enthusiast
-</h3>
+Theme:
+- Black background
+- Glassmorphism cards
+- Purple, Neon Blue, Cyan gradient accents
+- Professional developer aesthetic
+- Responsive layout
+- Premium portfolio style
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;AWS+Cloud+Learner;Open+Source+Contributor" />
-</p>
+Sections:
 
----
+1. Hero Banner
+   - Name
+   - AI Engineer
+   - Full Stack Developer
+   - Machine Learning Engineer
+   - Animated typing text
 
-# 🚀 About Me
+2. About Me
+   - Short introduction
+   - Career goals
+   - Current learning
+   - Open to internships and freelance work
 
-- 🤖 Building AI Applications
-- 🌐 Full Stack Developer
-- ☁️ Learning AWS Cloud & DevOps
-- 📊 Data Analytics & Machine Learning
-- 💼 Open to Internship & Full-Time Opportunities
-- 📚 Always Learning New Technologies
+3. Tech Stack
+   Languages:
+   Python
+   Java
+   JavaScript
+   HTML
+   CSS
+   SQL
 
----
+   Frontend:
+   React
+   Tailwind CSS
 
-# 💻 Tech Stack
+   Backend:
+   Node.js
+   Express
+   Flask
+   FastAPI
 
-## Languages
+   Databases:
+   MySQL
+   MongoDB
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css"/>
-</p>
+   Cloud & DevOps:
+   AWS
+   Docker
+   Linux
+   Git
+   GitHub
 
----
+   Tools:
+   VS Code
+   Figma
+   Photoshop
+   Postman
 
-## Frameworks
+Use Skill Icons (https://skillicons.dev).
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi"/>
-</p>
+4. GitHub Stats
+   - GitHub Stats Card
+   - Streak Stats
+   - Top Languages
+   - Contribution Graph
+   - GitHub Trophy
 
----
+5. Featured Projects
+   - EduSense AI
+   - AI Lecture Companion
+   - AWS Cloud Projects
+   - Portfolio Website
 
-## Database
+Each project should have:
+- Icon
+- Description
+- Tech Stack
+- GitHub Link
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
+6. Contact Section
+   - LinkedIn
+   - Portfolio
+   - Email
+   - GitHub
 
----
+7. Footer
+   Animated wave
+   Profile views
+   Visitor badge
 
-## DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,aws,git,github"/>
-</p>
-
----
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,photoshop"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📫 Connect with Me
-
-<p>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
-
-<a href="mailto:YOUR_EMAIL">Email</a>
-
-<a href="https://portfolio.com">Portfolio</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue"/>
-
-</p>
+Style:
+- Modern
+- Premium
+- Dark Theme
+- Glass UI
+- Developer Dashboard
+- Use HTML + Markdown for layout.
