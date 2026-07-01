@@ -1,11 +1,12 @@
 <div align="center">
 
-<!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=45&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&height=70&lines=Iniyan+C" alt="Iniyan C" />
+<!-- Animated gradient wave banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A855F7,100:38BDF8&height=220&section=header&text=INIYAN%20C&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20ENGINEER&descAlignY=58&descSize=28&animation=fadeIn" alt="Iniyan C - AI Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=60&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=90&weight=800&lines=AI+ENGINEER" alt="AI Engineer" />
+<!-- Rotating role tagline -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Full+Stack+Developer;Machine+Learning+Engineer;AI+%26+Data+Science+Enthusiast;Cloud+%26+DevOps+Learner" alt="Typing tagline" />
 
-**FULL STACK DEVELOPER | MACHINE LEARNING ENGINEER**
+<br/>
 
 ![AI Enthusiast](https://img.shields.io/badge/🤖_AI_ENTHUSIAST-14171A?style=for-the-badge&color=ec4899)
 ![Cloud Learner](https://img.shields.io/badge/☁️_CLOUD_LEARNER-14171A?style=for-the-badge&color=38bdf8)
@@ -159,8 +160,8 @@ Personal portfolio with modern UI, animations and responsive design.
 
 | Platform | Handle | Stats |
 |---|---|---|
-| ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) | iniyan_c | Rating 1624 |
-| ![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | iniyan_c | 5★ Problem Solver |
+| [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/iniyan_03/) | [iniyan_03](https://leetcode.com/u/iniyan_03/) | Rating 1624 |
+| [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/iniyan345) | [iniyan345](https://www.hackerrank.com/profile/iniyan345) | 5★ Problem Solver |
 | ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | iniyan_c | Max Rating 1200 |
 | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) | iniyan345 | — |
 
